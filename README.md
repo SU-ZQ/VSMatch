@@ -26,7 +26,7 @@ Both the input query graph and data graph are vertex-labeled.
 Each graph starts with 't N M' where N is the number of vertices and M is the number of edges. A vertex and an edge are formatted
 as 'v VertexID LabelId Degree' and 'e VertexId VertexId' respectively. Note that we require that the vertex
 id is started from 0 and the range is [0,N - 1] where V is the vertex set. The following
-is an input sample.
+is an input example.
 
 Example:
 
